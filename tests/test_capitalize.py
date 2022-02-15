@@ -1,4 +1,4 @@
-from capitalize import capitalize
+from src.capitalize import capitalize
 
 assert capitalize('') == ''
 assert capitalize('hello') == 'Hello'
